@@ -11,7 +11,7 @@ But, I soon discovered that I could spend $8 a month to have access on Paperspac
 with 8 VCPUs and an Nvidia RTS5000 GPU. The cost of a used Nvidia RTX2060 would cover 34 months of my
 Gradient access. So, going with gradient was a no-brainer!
 
-In a quick test, I discovered that training the NN from the first lesson on fast.ai took my Thinkstation
+In a quick test, I discovered that training the NN from the second lesson on fast.ai took my Thinkstation
 over four hours. I was able to accomplish the same training on my Gradient machine in 6 minutes.
 
 This blog is divided into sections listed as "posts" below.
