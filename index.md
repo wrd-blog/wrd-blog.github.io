@@ -1,4 +1,4 @@
-Hello and welcome to this blog. 
+## Hello and welcome to this blog. 
 I hope you find this record of my deep learning course experience useful in some way.
 
 I am a retired electrical engineer who enjoys learning new skills, especially programming skills.
