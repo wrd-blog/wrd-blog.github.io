@@ -33,8 +33,10 @@ and training a NN (resnet18) that is capable of recognizing images of hand-writt
 numbers. The training database I used came with fastai when I installed it. Taking a
 clue from the 04_mnist_basics notebook, I borrowed the learner from the "Going Deeper"
 section of the course notebook:
+
 learn = vision_learner(dls, resnet18, pretrained=False,
         loss_func=CrossEntropyLossFlat(), metrics=accuracy).
+        
 I had a bit of trouble with inference until I changed the loss_function from F.Cross_entropy
 to CrossEntropyLossFlat() as suggested on a Stackoverflow.com page.
 I was then able to train and export the model then reload the trained model and do
