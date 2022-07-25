@@ -42,7 +42,7 @@ to CrossEntropyLossFlat() as suggested on a Stackoverflow.com page.
 I was then able to train and export the model then reload the trained model and do
 some inference testing which worked great.
 
-Now, on to the next chapter of the book to learn some more about this fascinating
+Now, on to the next chapter of the book to learn something more about this fascinating
 subject.
 
 WrD
