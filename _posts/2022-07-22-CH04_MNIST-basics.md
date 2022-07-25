@@ -1,4 +1,4 @@
-# 
+# Chapter 04_mnist_basics
 Well, the intro to this chapter didn't lie when it claimed that this would be
 the most difficult chapter. It presents a lot of technical jargon, concepts,
 tricks and Fast.ai API instruction; more than my aging brain was able to absorb
